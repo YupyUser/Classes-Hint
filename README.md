@@ -1,4 +1,4 @@
-# Classes Practice
+# Classes Hint
 
 ## Info about classes 
 - [YouTube Video](https://www.youtube.com/watch?v=uLY9GXGMXaA)
